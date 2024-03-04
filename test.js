@@ -1,0 +1,1 @@
+console.log("Pratik");    //thus from a static folder we have included the javscript file.
